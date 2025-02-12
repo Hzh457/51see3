@@ -53,7 +53,7 @@ Component({
     // 右侧字母点击事件
     jumpMt(e) {
       let jumpNum = e.currentTarget.dataset.id;
-      console.log(1234523236)
+      console.log(1234523236999)
       this.setData({ jumpNum });
       console.log(this.data.jumpNum)
     },
