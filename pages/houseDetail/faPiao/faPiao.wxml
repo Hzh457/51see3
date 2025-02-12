@@ -1,2 +1,0 @@
-<!--pages/houseDetail/faPiao/faPiao.wxml-->
-<web-view src="{{invoiceUrl}}"></web-view>
